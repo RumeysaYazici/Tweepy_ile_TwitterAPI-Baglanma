@@ -1,4 +1,4 @@
-## `Tweepy` ile Twitter API'ye nasıl bağlanılır? :laptop: :magnifying glass tilted right:
+## `Tweepy` ile Twitter API'ye nasıl bağlanılır? :laptop: 
 
 
 >Twitter Developer Hesabı için Twitter'a bir başvuru yapmamız gerekiyor. Yapılan başvuru kabul edildikten sonra hesabımızda bir App oluşturuyoruz. Buradan App'e ve hesabımıza ait kullanıcı key'lerini ve access token'larını *(Keys and Access Tokens)* alarak Tweepy ile Twitter API'ye ulaşabiliyoruz.
